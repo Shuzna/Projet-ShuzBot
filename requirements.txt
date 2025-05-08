@@ -1,4 +1,4 @@
-discord.py==2.3.4
+discord.py==2.5.2
 transformers==4.30.2
 torch
 detoxify==0.4.1
